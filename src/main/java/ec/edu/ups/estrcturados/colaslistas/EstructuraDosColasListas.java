@@ -2,13 +2,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package ec.edu.ups.estructura2.colaslistas;
+package ec.edu.ups.estrcturados.colaslistas;
 
 /**
  *
- * @author jeanp
+ * @author David Vargas
  */
-public class Estructura2ColasListas {
+public class EstructuraDosColasListas {
 
     public static void main(String[] args) {
         System.out.println("Colas y Pilas implementacion generica");
